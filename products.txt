@@ -1,0 +1,5 @@
+1;Producto1;30.05
+2;Producto2;65.72
+3;Producto3;38.18
+4;Producto4;61.3
+5;Producto5;89.33
